@@ -9,5 +9,5 @@ jobs:
      runs-on: ubuntu-latest
 
      steps:
-      -name: print a welcome message
-       run: echo "welcom"
+      - name: print a welcome message
+        run: echo "welcom"
