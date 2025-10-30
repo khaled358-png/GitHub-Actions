@@ -1,0 +1,20 @@
+{
+  "name": "new-folder-(3)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Running tests...\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaled358-png/GitHub-Actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khaled358-png/GitHub-Actions/issues"
+  },
+  "homepage": "https://github.com/khaled358-png/GitHub-Actions#readme"
+}
