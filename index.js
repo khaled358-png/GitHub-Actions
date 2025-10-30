@@ -1,1 +1,1 @@
-console.log('Hello Khaled\!')
+console.log('Hello Github action!');
